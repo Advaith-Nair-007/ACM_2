@@ -1,5 +1,12 @@
-# ACMRecruitmentRepository-Advaith-Nair-S2
+#SIG AI Recruitment Submission
+Name:Advaith nair
+Roll No: AM.SC.U4AID25005
+Branch:AI DS
 
-Welcome to my ACM Recruitment repository! This repository contains tasks and solutions as part of the recruitment process for the ACM student chapter.
+Overview
+This repository contains my solutions for the SIG AI recruitment tasks.
 
-created by Advaith Nair
+Tasks Completed
+Task 1: Data Preprocessing & Leakage Detection
+Task 2: Exploratory Data Analysis
+Task 3: Regression Reasoning
