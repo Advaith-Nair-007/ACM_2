@@ -2,5 +2,10 @@
 
 <p> Name: Advaith Nair </p>
 <p> Roll No: AM.SC.U4AID25005 </p>
-Branch: <p>AI DS </p>
-<hr>
+<p>Branch: AI DS </p>
+hr {
+  border: none;
+  height: 2px;
+  background-color: black;
+}
+
