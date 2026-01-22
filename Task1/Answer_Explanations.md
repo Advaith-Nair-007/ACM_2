@@ -1,9 +1,10 @@
-<h1> Written Answers<\h1>
+<h1> Written Answers
+  
 <h2> 1. Why did you choose specific imputation methods?
   
 <p1> I first identified the columns that contained missing values and treated numerical and categorical features separately.
 For numerical features, I used the median to impute missing values because the data contained extreme values, which could distort the mean. The median is more robust to outliers and better represents the central tendency in such cases.
-For categorical features, I used the mode, as it is the most appropriate method for replacing missing values in categorical data.<\p1>
+For categorical features, I used the mode, as it is the most appropriate method for replacing missing values in categorical data.</p1>
 
 <h2> 2. How did you handle outliers and why?
   
