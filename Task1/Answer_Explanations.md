@@ -1,6 +1,6 @@
 <h1> Written Answers
   
-<h2> 1. Why did you choose specific imputation methods?
+<h2> 1. Why did you choose specific imputation methods?</h2>
   
 <p1> I first identified the columns that contained missing values and treated numerical and categorical features separately.
 For numerical features, I used the median to impute missing values because the data contained extreme values, which could distort the mean. The median is more robust to outliers and better represents the central tendency in such cases.
