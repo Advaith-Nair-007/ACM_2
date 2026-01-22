@@ -15,10 +15,10 @@ Instead of removing these data points, I applied capping (winsorization) to limi
 Data leakage occurs when information from the test set or future data unintentionally influences the training process, leading to overly optimistic model performance.
 In this dataset, data leakage may occur if:
 
-  Feature scaling is applied before splitting the data into training and test sets, \n
+  Feature scaling is applied before splitting the data into training and test sets, 
 
-  Missing values are imputed using statistics calculated from the entire dataset, or \n
+  Missing values are imputed using statistics calculated from the entire dataset, or 
 
-  Features that are directly related to the target variable are used incorrectly. \n
+  Features that are directly related to the target variable are used incorrectly. 
 
 To prevent data leakage, all preprocessing steps should be performed after the train–test split and should rely only on the training data.
